@@ -35,6 +35,7 @@ E-mail: 12231167@sustech.edu.cn \| WeChat: emiya_yu
 Pingcheng Dong†, **Zhuoyu Chen**†, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An.  
 
 **2021**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
+
 † These authors contributed equally to this work and should be considered co-first authors
 </div>
 </div>
