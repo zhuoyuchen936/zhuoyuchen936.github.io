@@ -51,6 +51,46 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II</div><img src='images/tcas2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Configurable Image Rectification and Disparity Refinement for Stereo Vision](https://ieeexplore.ieee.org/abstract/document/9832005)
+
+Pingcheng Dong†, **Zhuoyu Chen**†, Zhuoao Li, Ruoheng Yao, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An. 
+
+**2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs*
+
+† These authors contributed equally to this work and should be considered co-first authors
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSCIRC</div><img src='images/esscirc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles](https://ieeexplore.ieee.org/document/10268790)
+
+Pingcheng Dong†, **Zhuoyu Chen**†, Ke Li, Lei Chen, Kwang-Ting Cheng, Fengwei An. 
+
+**2023**, *IEEE 49th European Solid State Circuits Conference (ESSCIRC)*
+
+† These authors contributed equally to this work and should be considered co-first authors
+
+</div>
+</div>
+
+[A 139 fps pixel-level pipelined binocular stereo vision accelerator with region-optimized semi-global matching](https://ieeexplore.ieee.org/abstract/document/9733932). Pingcheng Dong, Zhuoao Li, **Zhuoyu Chen**, Ruoheng Yao, Huanshihong Deng, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An.   . **2021**, *IEEE Asian Solid-State Circuits Conference (A-SSCC)*
+
+
+
+# 📝 Collaborative Publications
+
+[A compact hardware architecture for bilateral filter with the combination of approximate computing and look-up table](https://ieeexplore.ieee.org/abstract/document/9733932).Ruoheng Yao, Lei Chen, Pingcheng Dong, **Zhuoyu Chen**, Fengwei An. **2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs*
+
+
+
+**2021**, *IEEE International System-on-Chip Conference (SOCC)*
+
 # 🎖 Honors and Awards
 - *2022* Outstanding Graduate of College
 - *2021* The Second Prize of Outstanding Students in Shuli College of SUSTech (Top 10% in SUSTech)
@@ -62,8 +102,8 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An
 - *2018.08 - 2022.06*: &nbsp;🎉🎉 BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. GPA: 3.52/4.00 RANK: 4/35
 - *2015.09 - 2018.06*: &nbsp;🎉🎉 Xi'an Tie Yi High School
 
-# 📝 Collaborative Publications
+
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.05 - Present*, future vison, China.
