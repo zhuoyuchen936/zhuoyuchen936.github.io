@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a PhD student in the [School of Microelectronics department](https://sme.sustech.edu.cn/index/index/benyuan.html) of [Southern University of Science and Technology](https://www.sustech.edu.cn/). I obtained my BEng degree in Microelectronic Science and Engineering from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2022, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). My research realm focuses on Stereo vision, computer architecture, low-power and high-performance VLSI circuit design and software-hardware co-design. You can find more information through my [CV](../images/ZhuoyuChen_CanadaCast_CV_.pdf). Welcome to contact with me if you have any interests.  
+E-mail: 12231167@sustech.edu.cn \| WeChat: emiya_yu
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-# 🔥 Educations
+# 📖 Educations
+- *2022.09 - Present*, PhD in Microelectronics Science and Engineering, Southern University of Science and Technology.
 - *2018.08 - 2022.06*: &nbsp;🎉🎉 BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. GPA: 3.54/4.00
-- 
+
 # 🔥 News
 - *2022.06*: &nbsp;🎉🎉 Our stereo depth coprocessor has sucessfully been taped out in TSMC 28nm CMOS technology!.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
