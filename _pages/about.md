@@ -47,6 +47,8 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An
 **Zhuoyu Chen**, Pingchen Dong, Zhuoao Li, Ruoheng Yao, Yunhao Ma, Xiwei Fang, Huanshihong Deng, Wenyue Zhang, Lei Chen, Fengwei An.
 
 **2021**, *IEEE International System-on-Chip Conference (SOCC)*
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2022* Outstanding Graduate of College
