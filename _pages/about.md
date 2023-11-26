@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student in the [School of Microelectronics department](https://sme.sustech.edu.cn/index/index/benyuan.html) of [Southern University of Science and Technology](https://www.sustech.edu.cn/). I obtained my BEng degree in Microelectronic Science and Engineering from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2022, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). My research realm focuses on Stereo vision, computer architecture, low-power and high-performance VLSI circuit design and software-hardware co-design. You can find more information through my [CV](../images/ZhuoyuChen_CanadaCast_CV_.pdf). Welcome to contact with me if you have any interests.  
+I am currently a PhD student in the [School of Microelectronics](https://sme.sustech.edu.cn/index/index/benyuan.html) department of [Southern University of Science and Technology](https://www.sustech.edu.cn/). I obtained my BEng degree in Microelectronic Science and Engineering from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2022, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). My research realm focuses on Stereo vision, computer architecture, low-power and high-performance VLSI circuit design and software-hardware co-design. You can find more information through my [CV](../images/ZhuoyuChen_CanadaCast_CV_.pdf). Welcome to contact with me if you have any interests.  
 E-mail: 12231167@sustech.edu.cn \| WeChat: emiya_yu
 
 
