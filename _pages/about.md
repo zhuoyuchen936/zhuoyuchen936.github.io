@@ -85,11 +85,9 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Ke Li, Lei Chen, Kwang-Ting Cheng, Fengwe
 
 # 📝 Collaborative Publications
 
-[A compact hardware architecture for bilateral filter with the combination of approximate computing and look-up table](https://ieeexplore.ieee.org/abstract/document/9733932).Ruoheng Yao, Lei Chen, Pingcheng Dong, **Zhuoyu Chen**, Fengwei An. **2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs*
+[A compact hardware architecture for bilateral filter with the combination of approximate computing and look-up table](https://ieeexplore.ieee.org/abstract/document/9733932). Ruoheng Yao, Lei Chen, Pingcheng Dong, **Zhuoyu Chen**, Fengwei An. **2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs*
 
-
-
-**2021**, *IEEE International System-on-Chip Conference (SOCC)*
+[A 320 FPS Pixel-Level Pipelined Stereo Vision Accelerator with Regional Optimization and Multi-direction Hole Filling](https://ieeexplore.ieee.org/abstract/document/10104009). Ke Li, Xinyu Guan, Pingcheng Dong, **Zhuoyu Chen**, Lei Chen, Fengwei An. **2022**, *IEEE Asia Pacific Conference on Postgraduate Research in Microelectronics and Electronics*
 
 # 🎖 Honors and Awards
 - *2022* Outstanding Graduate of College
