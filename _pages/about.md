@@ -20,6 +20,10 @@ redirect_from:
 I am currently a PhD student in the [School of Microelectronics](https://sme.sustech.edu.cn/index/index/benyuan.html) department of [Southern University of Science and Technology](https://www.sustech.edu.cn/). I obtained my BEng degree in Microelectronic Science and Engineering from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2022, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). My research realm focuses on Stereo vision, computer architecture, low-power and high-performance VLSI circuit design and software-hardware co-design. You can find more information through my [CV](../images/ZhuoyuChen_CanadaCast_CV_.pdf). Welcome to contact with me if you have any interests.  
 E-mail: 12231167@sustech.edu.cn \| WeChat: emiya_yu
 
+# 📖 Educations
+- *2022.09 - Present*, PhD in Microelectronics Science and Engineering, Southern University of Science and Technology.
+- *2018.08 - 2022.06*: &nbsp;🎉🎉 BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. GPA: 3.52/4.00 RANK: 4/35
+- *2015.09 - 2018.06*: &nbsp;🎉🎉 Xi'an Tie Yi High School
 
 # 🔥 News
 - *2023.5.24*: &nbsp;🎉🎉 One paper “A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles” has been accepted by IEEE ESSDERC/ESSCIRC 2023!
@@ -94,13 +98,6 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Ke Li, Lei Chen, Kwang-Ting Cheng, Fengwe
 - *2021* The Second Prize of Outstanding Students in Shuli College of SUSTech (Top 10% in SUSTech)
 - *2020* The Second prize of National College Students FPGA Innovation Design Competition
 - *2018* The Second Prize of Outstanding Students in SUSTech (Top 20% in SUSTech)
-
-# 📖 Educations
-- *2022.09 - Present*, PhD in Microelectronics Science and Engineering, Southern University of Science and Technology.
-- *2018.08 - 2022.06*: &nbsp;🎉🎉 BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. GPA: 3.52/4.00 RANK: 4/35
-- *2015.09 - 2018.06*: &nbsp;🎉🎉 Xi'an Tie Yi High School
-
-
 
 
 # 💻 Internships
