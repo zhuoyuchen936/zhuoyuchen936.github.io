@@ -83,11 +83,13 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Ke Li, Lei Chen, Kwang-Ting Cheng, Fengwe
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS</div><img src='images/iscasdemo.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [Live Demonstration: A 1920×1080 129fps 4.3pJ/pixel Stereo-Matching Processor for Low-power Applications](https://ieeexplore.ieee.org/abstract/document/10558420). Zhuoyu Chen; Shengming Zhou; Pingcheng Dong; Ke Li; Wenyue Zhang; Fengwei An; Lei Chen.   . **2024**, *IEEE International Symposium on Circuits and Systems (ISCAS)*
 
 </div>
 </div>
-
 [A 139 fps pixel-level pipelined binocular stereo vision accelerator with region-optimized semi-global matching](https://ieeexplore.ieee.org/abstract/document/9733932). Pingcheng Dong, Zhuoao Li, **Zhuoyu Chen**, Ruoheng Yao, Huanshihong Deng, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An.   . **2021**, *IEEE Asian Solid-State Circuits Conference (A-SSCC)*
 
 
