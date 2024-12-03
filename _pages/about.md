@@ -34,7 +34,8 @@ E-mail: 12231167@sustech.edu.cn \| WeChat: zhuoyu936
 
 # 📝 Main Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS</div><img src='images/cicc2025.png' alt="sym" width="100%"></div></div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CICC</div><img src='images/cicc2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A 3.9 pJ/pixel Trinocular Vision System with Cascadable Binocular Stereo Processor and Pixel-wise Disparity Fusion for Ultra-Wide Depth Sensing]**Under review**
 
