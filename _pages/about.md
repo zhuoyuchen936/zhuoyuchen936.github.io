@@ -42,7 +42,6 @@ E-mail: 12231167@sustech.edu.cn \| WeChat: zhuoyu936
 
 **2025**, *IEEE Custom Integrated Circuits Conference (CICC)*
 
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS</div><img src='images/iscasdemo.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,7 +51,6 @@ E-mail: 12231167@sustech.edu.cn \| WeChat: zhuoyu936
 
 **2024**, *IEEE International Symposium on Circuits and Systems (ISCAS)*
 
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSCIRC</div><img src='images/esscirc.png' alt="sym" width="100%"></div></div>
@@ -65,7 +63,7 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Ke Li, Lei Chen, Kwang-Ting Cheng, Fengwe
 **2023**, *IEEE 49th European Solid State Circuits Conference (ESSCIRC)*
 
 † These authors contributed equally to this work and should be considered co-first authors
-</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II</div><img src='images/tcas2.png' alt="sym" width="100%"></div></div>
@@ -77,7 +75,7 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Zhuoao Li, Ruoheng Yao, Wenyue Zhang, Yan
 **2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs*
 
 † These authors contributed equally to this work and should be considered co-first authors
-</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I</div><img src='images/tcasi.png' alt="sym" width="100%"></div></div>
@@ -90,7 +88,7 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An
 **2021**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
 
 † These authors contributed equally to this work and should be considered co-first authors
-</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC</div><img src='images/SOCC.png' alt="sym" width="100%"></div></div>
@@ -101,16 +99,18 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An
 **Zhuoyu Chen**, Pingchen Dong, Zhuoao Li, Ruoheng Yao, Yunhao Ma, Xiwei Fang, Huanshihong Deng, Wenyue Zhang, Lei Chen, Fengwei An.
 
 **2021**, *IEEE International System-on-Chip Conference (SOCC)*
-</div>
 
 
-</div>
+
+
 [A 139 fps pixel-level pipelined binocular stereo vision accelerator with region-optimized semi-global matching](https://ieeexplore.ieee.org/abstract/document/9733932)
 
 Pingcheng Dong, Zhuoao Li, **Zhuoyu Chen**, Ruoheng Yao, Huanshihong Deng, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An.   
 
 **2021**, *IEEE Asian Solid-State Circuits Conference (A-SSCC)*
-</div>
+
+
+
 
 
 # 📝 Collaborative Publications
