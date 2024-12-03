@@ -108,7 +108,6 @@ Pingcheng Dong†, **Zhuoyu Chen**†, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An
 Pingcheng Dong, Zhuoao Li, **Zhuoyu Chen**, Ruoheng Yao, Huanshihong Deng, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An.   
 
 **2021**, *IEEE Asian Solid-State Circuits Conference (A-SSCC)*
-</div>
 
 
 
